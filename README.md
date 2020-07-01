@@ -6,9 +6,6 @@ build.gradle (Module:app)
 ```kotlin
 implementation 'androidx.viewpager2:viewpager2:1.0.0'
 ```
-
-뷰페이저를 사용할 화면에 뷰페이저2 추가
-
 activity_main.xml
 
 ```kotlin
@@ -27,9 +24,6 @@ activity_main.xml
 
 </LinearLayout>
 ```
-
-뷰페이저 아이템 레이아웃 추가
-
 view_pager.xml
 
 ```kotlin
@@ -51,9 +45,6 @@ view_pager.xml
         app:layout_constraintEnd_toEndOf="parent"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-
-뷰페이저 어댑터 생성
-
 ```kotlin
 package com.example.viewpager2
 
@@ -86,9 +77,6 @@ class ViewPagerAdapter(private val data:Array<String>) : RecyclerView.Adapter<Vi
     }
 }
 ```
-
-뷰페이저를 사용활 화면에서 어댑터 인스턴스
-
 ```kotlin
 package com.example.viewpager2
 
