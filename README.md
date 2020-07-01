@@ -104,4 +104,6 @@ class MainActivity : AppCompatActivity() {
 	}
 }
 ```
+<center>
 <img src="https://user-images.githubusercontent.com/46472692/86191785-e6c47a00-bb82-11ea-9efa-0c1110225630.gif" width="30%"></img>
+</center>
