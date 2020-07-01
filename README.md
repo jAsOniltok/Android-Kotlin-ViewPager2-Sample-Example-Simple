@@ -104,5 +104,5 @@ class MainActivity : AppCompatActivity() {
 	}
 }
 ```
-<img src="https://user-images.githubusercontent.com/46472692/86192086-a9acb780-bb83-11ea-8c2e-df2645fa0ecc.png" width="30%"></img>
+<img src="https://user-images.githubusercontent.com/46472692/86192086-a9acb780-bb83-11ea-8c2e-df2645fa0ecc.png" width="50%"></img>
 <img src="https://user-images.githubusercontent.com/46472692/86191785-e6c47a00-bb82-11ea-9efa-0c1110225630.gif" width="30%"></img>
