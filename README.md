@@ -1,5 +1,4 @@
-# ViewPager2
-viewPager2 sample
+# ViewPager2 (#Sample #Example #Simple)
 
 
 <img src="https://user-images.githubusercontent.com/46472692/86192086-a9acb780-bb83-11ea-8c2e-df2645fa0ecc.png" width="50%"></img> <br><br>
